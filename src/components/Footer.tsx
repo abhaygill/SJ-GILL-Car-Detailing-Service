@@ -1,7 +1,7 @@
 import { Phone, MessageCircle, Mail, Instagram } from "lucide-react";
 
-const PHONE = "tel:+61430881919";
-const WHATSAPP = "https://wa.me/61430881919?text=Hi%20SJ%20Gill%2C%20I%20would%20like%20to%20book%20a%20car%20detailing%20service.%20Please%20let%20me%20know%20availability.";
+const PHONE = "tel:0430881919";
+const WHATSAPP = "https://wa.me/0430881919?text=Hi%20SJ%20Gill%2C%20I%20would%20like%20to%20book%20a%20car%20detailing%20service.%20Please%20let%20me%20know%20availability.";
 
 const Footer = () => (
   <footer id="contact" className="section-dark px-4 py-12 md:px-8">
@@ -18,7 +18,7 @@ const Footer = () => (
           <ul className="space-y-2 text-sm text-primary-foreground/60">
             <li>
               <a href={PHONE} className="inline-flex items-center gap-2 hover:text-accent transition-colors">
-                <Phone className="w-4 h-4" /> +61 430 881 919
+                <Phone className="w-4 h-4" /> 0 430 881 919
               </a>
             </li>
             <li>
