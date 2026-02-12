@@ -1,6 +1,6 @@
 import { Phone, MessageCircle } from "lucide-react";
 
-const PHONE = "tel:430881919";
+const PHONE = "tel:0430881919";
 const WHATSAPP = "https://wa.me/61430881919?text=Hi%20SJ%20Gill%2C%20I%20would%20like%20to%20book%20a%20car%20detailing%20service.%20Please%20let%20me%20know%20availability.";
 
 const StickyBar = () => (
