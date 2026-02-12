@@ -1,7 +1,7 @@
 import { Phone, MessageCircle } from "lucide-react";
 
-const PHONE = "tel:+61XXXXXXXXX";
-const WHATSAPP = "https://wa.me/61XXXXXXXXX?text=Hi%20SJ%20Gill%2C%20I%20would%20like%20to%20book%20a%20car%20detailing%20service%20in%20Cranbourne.%20Please%20let%20me%20know%20availability.";
+const PHONE = "tel:+61430881919";
+const WHATSAPP = "https://wa.me/61430881919?text=Hi%20SJ%20Gill%2C%20I%20would%20like%20to%20book%20a%20car%20detailing%20service.%20Please%20let%20me%20know%20availability.";
 
 const StickyBar = () => (
   <div className="fixed bottom-0 left-0 right-0 z-50 bg-primary border-t border-border/20 p-3 md:hidden">
