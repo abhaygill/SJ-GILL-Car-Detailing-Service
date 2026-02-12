@@ -1,8 +1,8 @@
 import { Phone, MessageCircle } from "lucide-react";
 
-const PHONE = "tel:+61430881919";
+const PHONE = "tel:0430881919";
 const WHATSAPP =
-  "https://wa.me/61430881919?text=Hi%20SJ%20Gill%2C%20I%20would%20like%20to%20book%20a%20car%20detailing%20service.%20Please%20let%20me%20know%20availability.";
+  "https://wa.me/0430881919?text=Hi%20SJ%20Gill%2C%20I%20would%20like%20to%20book%20a%20car%20detailing%20service.%20Please%20let%20me%20know%20availability.";
 
 const CallToAction = () => (
   <section className="py-20 bg-gradient-to-br from-[#071426] via-[#0b1f3a] to-[#0f2747] text-white text-center">
