@@ -16,7 +16,7 @@ const Stars = () => (
 );
 
 const Reviews = () => (
-  <section id="reviews" className="section-padding section-dark">
+  <section id="reviews" className="py-20 bg-[#0b1f3a] text-white">
     <div className="container">
       <h2 className="font-heading text-3xl md:text-5xl font-bold text-center uppercase tracking-tight mb-12">
         What Our <span className="text-accent">Customers Say</span>

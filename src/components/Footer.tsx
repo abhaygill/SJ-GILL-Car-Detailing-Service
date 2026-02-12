@@ -4,7 +4,7 @@ const PHONE = "tel:+61XXXXXXXXX";
 const WHATSAPP = "https://wa.me/61XXXXXXXXX?text=Hi%20SJ%20Gill%2C%20I%20would%20like%20to%20book%20a%20car%20detailing%20service%20in%20Cranbourne.%20Please%20let%20me%20know%20availability.";
 
 const Footer = () => (
-  <footer className="section-dark px-4 py-12 md:px-8">
+  <footer id="contact" className="section-dark px-4 py-12 md:px-8">
     <div className="container">
       <div className="grid gap-8 md:grid-cols-3">
         <div>

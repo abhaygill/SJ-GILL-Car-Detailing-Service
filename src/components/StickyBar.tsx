@@ -17,7 +17,7 @@ const StickyBar = () => (
         href={WHATSAPP}
         target="_blank"
         rel="noopener noreferrer"
-        className="flex-1 inline-flex items-center justify-center gap-2 bg-green-600 text-accent-foreground font-heading text-sm uppercase tracking-wide py-3 rounded-md"
+        className="flex-1 inline-flex items-center justify-center gap-2 bg-[#25D366] text-white font-heading text-sm uppercase tracking-wide py-3 rounded-md shadow-md shadow-black/40 hover:bg-[#1ebe5a] transition-colors"
       >
         <MessageCircle className="w-4 h-4" />
         Book Now

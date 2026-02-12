@@ -36,7 +36,7 @@
 
     --radius: 0.5rem;
 
-    --hero-overlay: linear-gradient(to bottom, hsla(0, 0%, 0%, 0.65), hsla(0, 0%, 0%, 0.85));
+    --hero-overlay: linear-gradient(to bottom, hsla(0, 0%, 0%, 0.7), hsla(0, 0%, 0%, 0.9));
 
     --sidebar-background: 0 0% 98%;
     --sidebar-foreground: 240 5.3% 26.1%;
