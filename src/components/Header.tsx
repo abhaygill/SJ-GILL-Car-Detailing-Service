@@ -116,10 +116,10 @@ export default function Header() {
             <img
   src={logo}
   alt="SJ Gill Logo"
-  className="h-9 w-auto object-contain"
+  className="h-12 w-auto object-contain"
 />
 
-            <span className="font-heading font-bold tracking-tight text-lg leading-none">
+            <span className="font-heading font-bold tracking-tight text-xl leading-none">
               SJ GILL
             </span>
           </a>
